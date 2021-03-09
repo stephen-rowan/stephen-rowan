@@ -1,16 +1,9 @@
-## Stephen
-
-# stephen-rowan.github.io
+## Current Interests
 
 
-An h1 header
-============
+Project Catalyst : Comprehensive NFT Framework Collab
+=====================================================
 
-Paragraphs are separated by a blank line.
-
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
+> Problem statement : 42 Catalyst proposals address NFT point solutions—yet we lack an overarching DApp strategy to dominate as the de facto NFT platform choice.
+> 
+https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088
