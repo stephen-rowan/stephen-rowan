@@ -8,6 +8,6 @@ The NFT DAO Collaboration is an initiative to bring Non Fungible Tokens (NFTs) t
 
 https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088
 
-## The DAO NFT-Metadata github
+## The DAO NFT github
 
-https://github.com/NFT-DAO/NFT-Metadata
+https://github.com/NFT-DAO
