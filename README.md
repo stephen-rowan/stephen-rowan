@@ -1,7 +1,3 @@
-<img src="Nought Hostel Header.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
 ## Current Interests
 
 
