@@ -18,4 +18,4 @@ The NFT DAO Collaboration is an initiative to bring Non Fungible Tokens (NFTs) t
 * **Ideascale page** : https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephen-rowan&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-rowan&theme=blue-green)
+
