@@ -11,10 +11,13 @@ Create a GitHub Organization as a focus for the distributed, autonomous organiza
 
  NFT-DAO/Governance-HOLON funded by Project Catalyst
 ============================================================
+NFT-DAO envisions an open-source composable NFT framework for all 
 
-The NFT DAO Collaboration is an initiative to bring Non Fungible Tokens (NFTs) to [Cardano](https://cardano.org/) using Distributed Autonomous Organisation (DAO). For a broad overview see the [NFT-DAO website](https://nft-dao.org/).
+[Cardano](https://cardano.org/) 
 
-* **GitHub** : https://github.com/NFT-DAO
+For a broad overview see the [NFT-DAO website](https://nft-dao.org/).
+
+* **GitHub** : https://github.com/NFT-DAO/Governance-HOLON
 * **Ideascale page** : https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephen-rowan&show_icons=true)
