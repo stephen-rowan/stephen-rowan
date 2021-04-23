@@ -9,7 +9,7 @@ Create a GitHub Organization as a focus for the distributed, autonomous organiza
 * **GitHub** :https://github.com/Quality-Assurance-DAO
 * **Ideascale page** : https://cardano.ideascale.com/a/dtd/Quality-Assurance-DAO/351678-48088
 
-Project Catalyst : Comprehensive NFT Framework Collaboration
+ NFT-DAO/Governance-HOLON funded by Project Catalyst
 ============================================================
 
 The NFT DAO Collaboration is an initiative to bring Non Fungible Tokens (NFTs) to [Cardano](https://cardano.org/) using Distributed Autonomous Organisation (DAO). For a broad overview see the [NFT-DAO website](https://nft-dao.org/).
