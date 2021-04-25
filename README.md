@@ -1,10 +1,8 @@
 ## Current Interests
-
+<a href="https://github.com/Quality-Assurance-DAO"><img src="https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Binary/QA-DAO-LOGO.jpg" align="left" width="100">
 [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO)
 ============================================================
 The Distributed Autonomous Organisation of Quality Assurance
-
-<a href="https://github.com/Quality-Assurance-DAO"><img src="https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Binary/QA-DAO-LOGO.jpg" align="left" width="100">
 
 [NFT-DAO/Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
 ============================================================
