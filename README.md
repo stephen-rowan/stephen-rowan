@@ -13,7 +13,5 @@ NFT-DAO envisions an open-source composable NFT framework for all
 <a href="https://cardano.ideascale.com/a/index"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
 <a href="https://cardano.org/"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
 
-[Cardano](https://cardano.org/) 
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephen-rowan&show_icons=true)
 
