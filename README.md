@@ -3,6 +3,10 @@
 [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO)
 ============================================================
 The Distributed Autonomous Organisation of Quality Assurance
+  
+ [SecretDecks](https://github.com/SecretDecks)
+============================================================
+ 
 
 [NFT-DAO/Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
 ============================================================
