@@ -4,7 +4,7 @@
 ============================================================
 The Distributed Autonomous Organisation of Quality Assurance
 
-============================================================
+
  [SecretDecks](https://github.com/SecretDecks)
 ============================================================ 
 
