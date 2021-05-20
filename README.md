@@ -5,6 +5,8 @@
 The Distributed Autonomous Organisation of Quality Assurance
 
 
+<a href="https://github.com/SecretDecks"><img src="https://avatars.githubusercontent.com/u/83766103?s=200&v=4" align="right" width="70">
+
  [SecretDecks](https://github.com/SecretDecks)
 ============================================================ 
 Contributor
