@@ -11,9 +11,10 @@ The Distributed Autonomous Organisation of Quality Assurance
 ============================================================ 
 Contributor
 
+<hr>
 
-[NFT-DAO/Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
-============================================================
+### [NFT-DAO/Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
+
 Repostory Maintainer
 
 <a href="https://cardano.org/"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
