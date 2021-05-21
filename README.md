@@ -13,7 +13,7 @@ Contributor
 
 <hr>
 
-### [Governance-HOLON](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
+### [DAO Governance](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
 
 Repostory Maintainer
 
