@@ -20,7 +20,7 @@ Humane Engineering and Design toward Human Collective Super-Intelligence
  
 <hr>
 
-### [DAO Governance](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
+### [NFT-DAO Governance](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
 
 Repostory Maintainer
 
