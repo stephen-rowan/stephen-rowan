@@ -15,7 +15,7 @@ Contributor
 
  [Adagov.org](https://github.com/adagovorg)
 ============================================================ 
-Contributor
+Humane Engineering and Design toward Human Collective Super-Intelligence
  
  
 <hr>
