@@ -11,6 +11,13 @@ The Distributed Autonomous Organisation of Quality Assurance
 ============================================================ 
 Contributor
 
+ <a href="https://github.com/adagovorg"><img src="https://avatars.githubusercontent.com/u/84563823?s=400&u=323a0b61732cfea389fbc0e410a0a19d1079a7be&v=4" align="right" width="70">
+
+ [Adagov.org](https://github.com/adagovorg)
+============================================================ 
+Contributor
+ 
+ 
 <hr>
 
 ### [DAO Governance](https://github.com/NFT-DAO/Governance-HOLON) funded by [Project Catalyst](https://cardano.ideascale.com/a/index)
