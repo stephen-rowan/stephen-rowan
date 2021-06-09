@@ -17,6 +17,12 @@ Contributor
 ============================================================ 
 Humane Engineering and Design toward Human Collective Super-Intelligence
  
+
+ <a href="https://github.com/Council-of-DAOs"><img src="https://avatars.githubusercontent.com/u/82062544?s=200&v=4" align="right" width="70">
+  
+ [ Council-of-DAOs / Council-Hub ](https://github.com/Council-of-DAOs/Council-Hub)
+============================================================ 
+A communications hub for Project Catalyst distributed organisations and community projects.  
  
 <hr>
 
