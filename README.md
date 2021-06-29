@@ -1,4 +1,10 @@
 ## Current Interests
+<a href="https://github.com/Catalyst-Swarm"><img src="https://avatars.githubusercontent.com/u/86554682?s=400&u=33b80d06e93125df2fb64d693dddc12c71b03171&v=4" align="right" width="70">
+[Catalyst-Swarm ](https://github.com/Catalyst-Swarm)
+============================================================
+"Together we are stronger" - Tevo
+
+
 <a href="https://github.com/Quality-Assurance-DAO"><img src="https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Binary/QA-DAO-LOGO.jpg" align="right" width="70">
 [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO)
 ============================================================
