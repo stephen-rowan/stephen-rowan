@@ -9,10 +9,10 @@
 ============================================================
 The Catalyst Alliance - Maintainer
   
-[SecretDecks](https://github.com/SecretDecks)
+[SecretDecks](https://github.com/SecretDecks)  
 <a href="https://github.com/SecretDecks"><img src="https://avatars.githubusercontent.com/u/83766103?s=200&v=4" align="right" width="70">
 ============================================================ 
-Contributor
+ Contributor
  
 <a href="https://github.com/Quality-Assurance-DAO"><img src="https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Binary/QA-DAO-LOGO.jpg" align="right" width="70">
 [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO)
