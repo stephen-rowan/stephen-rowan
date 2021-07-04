@@ -4,6 +4,11 @@
 ============================================================
 "Together we are stronger" - Tevo
  
+ <a href="https://github.com/The-Catalyst-Alliance"><img src="https://avatars.githubusercontent.com/u/86917926?s=200&v=4" align="right" width="70">
+[The Catalyst Alliance](https://github.com/The-Catalyst-Alliance)
+============================================================
+The Catalyst Alliance
+ 
 <a href="https://github.com/Quality-Assurance-DAO"><img src="https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Binary/QA-DAO-LOGO.jpg" align="right" width="70">
 [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO)
 ============================================================
