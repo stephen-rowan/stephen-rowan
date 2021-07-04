@@ -10,6 +10,7 @@
 The Catalyst Alliance
   
 [SecretDecks](https://github.com/SecretDecks)
+<a href="https://github.com/SecretDecks"><img src="https://avatars.githubusercontent.com/u/83766103?s=200&v=4" align="right" width="70">
 ============================================================ 
 Contributor
  
@@ -17,8 +18,6 @@ Contributor
 [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO)
 ============================================================
 The Distributed Autonomous Organisation of Quality Assurance
-
-<a href="https://github.com/SecretDecks"><img src="https://avatars.githubusercontent.com/u/83766103?s=200&v=4" align="right" width="70">
 
  <a href="https://github.com/adagovorg"><img src="https://avatars.githubusercontent.com/u/84563823?s=400&u=323a0b61732cfea389fbc0e410a0a19d1079a7be&v=4" align="right" width="70">
 
