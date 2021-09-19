@@ -11,7 +11,7 @@
  
 <a href="https://github.com/SecretDecks"><img src="https://avatars.githubusercontent.com/u/83766103?s=200&v=4" align="right" width="70">
 ### [SecretDecks](https://github.com/SecretDecks)  
-Contributor, Maintainer
+**"Read Thy Self"** - Contributor, Maintainer
  
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephen-rowan&show_icons=true)
