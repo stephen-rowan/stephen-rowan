@@ -3,10 +3,6 @@
 ### [Catalyst-Swarm ](https://github.com/Catalyst-Swarm)
 **"Together we are stronger" - Tevo** -  Maintainer
  
- <a href="https://github.com/The-Catalyst-Alliance"><img src="https://avatars.githubusercontent.com/u/86917926?s=200&v=4" align="right" width="70">
-### [The Catalyst Alliance](https://github.com/The-Catalyst-Alliance)
-**The Catalyst Alliance** - Maintainer
-  
 <a href="https://github.com/SecretDecks"><img src="https://avatars.githubusercontent.com/u/83766103?s=200&v=4" align="right" width="70">
 ### [SecretDecks](https://github.com/SecretDecks)  
 Contributor, Maintainer
