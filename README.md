@@ -17,8 +17,8 @@
 ### [Cardano Catalyst Community Eastern Townhall](https://github.com/C3ETH)  
 Contributor, Maintainer
  
-<a href="https://github.com/C3ETH"><img src="https://avatars.githubusercontent.com/u/88413275?s=400&u=7f5741919702f30b720ac41d66aafc4aac1d3275&v=4" align="right" width="70">
-### [Cardano Catalyst Community Eastern Townhall](https://github.com/C3ETH)  
+<a href="https://github.com/The-Catalyst-School"><img src="https://avatars.githubusercontent.com/u/87011469?s=400&u=1f3ff083a27b95977b2f4d92fad8112577ac23b6&v=4" align="right" width="70">
+### [The-Catalyst-School](https://github.com/The-Catalyst-School)  
 Contributor, Maintainer
  
 
