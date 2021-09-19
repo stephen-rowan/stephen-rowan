@@ -13,6 +13,10 @@
 ### [SecretDecks](https://github.com/SecretDecks)  
 **"Read Thy Self"** - Contributor, Maintainer
  
+ <a href="https://github.com/C3ETH"><img src="https://avatars.githubusercontent.com/u/88413275?s=400&u=7f5741919702f30b720ac41d66aafc4aac1d3275&v=4" align="right" width="70">
+### [Cardano Catalyst Community Eastern Townhall](https://github.com/C3ETH)  
+Contributor, Maintainer
+ 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephen-rowan&show_icons=true)
   
