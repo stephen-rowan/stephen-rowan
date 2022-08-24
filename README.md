@@ -8,7 +8,7 @@
 <a href="https://github.com/Catalyst-Auditing"><img src="https://avatars.githubusercontent.com/u/95848879?s=400&u=57e24008fb961e94fac28a448dd2757fcb2cc2bb&v=4" align="right" width="70"> 
 
 ### [Catalyst Auditing & Oversight](https://github.com/Catalyst-Auditing) - funded by Project Catalyst. 
-**"Together we are stronger" - Tevo** -  Maintainer
+"If you want to know who controls you, look at who you are not allowed to criticize." ~ Voltaire -  Maintainer
 
 <a href="https://github.com/Catalyst-Swarm"><img src="https://avatars.githubusercontent.com/u/86554682?s=400&u=33b80d06e93125df2fb64d693dddc12c71b03171&v=4" align="right" width="70"> 
 
