@@ -5,12 +5,12 @@
 ### [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO) - funded by Project Catalyst. 
 **The Distributed Autonomous Organisation of Quality Assurance** - Creator, Owner
 
-<a href="https://github.com/Catalyst-Auditing"><img src="https://avatars.githubusercontent.com/u/86554682?s=400&u=33b80d06e93125df2fb64d693dddc12c71b03171&v=4" align="right" width="70"> 
+<a href="https://github.com/Catalyst-Auditing"><img src="https://avatars.githubusercontent.com/u/95848879?s=400&u=57e24008fb961e94fac28a448dd2757fcb2cc2bb&v=4" align="right" width="70"> 
 
 ### [Catalyst Auditing & Oversight](https://github.com/Catalyst-Auditing) - funded by Project Catalyst. 
 **"Together we are stronger" - Tevo** -  Maintainer
 
-<a href="https://github.com/Catalyst-Swarm"><img src="https://avatars.githubusercontent.com/u/95848879?s=400&u=57e24008fb961e94fac28a448dd2757fcb2cc2bb&v=4" align="right" width="70"> 
+<a href="https://github.com/Catalyst-Swarm"><img src="https://avatars.githubusercontent.com/u/86554682?s=400&u=33b80d06e93125df2fb64d693dddc12c71b03171&v=4" align="right" width="70"> 
 
 ### [Catalyst-Swarm ](https://github.com/Catalyst-Swarm)
 **"Together we are stronger" - Tevo** -  Maintainer
