@@ -9,9 +9,7 @@
 
 ### [Catalyst Auditing & Oversight](https://github.com/Catalyst-Auditing) - funded by Project Catalyst. 
 
-<a href="https://github.com/Catalyst-Swarm"><img src="https://avatars.githubusercontent.com/u/95848879?s=400&u=57e24008fb961e94fac28a448dd2757fcb2cc2bb&v=4" align="right" width="70"> 
-
-
+<a href="https://github.com/Catalyst-Auditing"><img src="https://avatars.githubusercontent.com/u/95848879?s=400&u=57e24008fb961e94fac28a448dd2757fcb2cc2bb&v=4" align="right" width="70"> 
 
 ### [Catalyst-Swarm ](https://github.com/Catalyst-Swarm)
 **"Together we are stronger" - Tevo** -  Maintainer
