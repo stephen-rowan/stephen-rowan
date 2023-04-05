@@ -22,10 +22,10 @@ Contributor, Maintainer
 <a href="https://github.com/treasuryguild"><img src="https://avatars.githubusercontent.com/u/100556245?s=200&v=4" align="right" width="70"> 
  
 ### [Cardano Catalyst Community Eastern Townhall](https://github.com/C3ETH)  
-Contributor, Maintainer
- 
+Contributor, Maintainer 
 <a href="https://github.com/The-Catalyst-School"><img src="https://avatars.githubusercontent.com/u/87011469?s=400&u=1f3ff083a27b95977b2f4d92fad8112577ac23b6&v=4" align="right" width="70">
-### [The-Catalyst-School](https://github.com/The-Catalyst-School)  
+
+ ### [The-Catalyst-School](https://github.com/The-Catalyst-School)  
 Contributor, Maintainer
  
 
