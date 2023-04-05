@@ -29,7 +29,11 @@ Contributor, Maintainer
 
  ### [The-Catalyst-School](https://github.com/The-Catalyst-School)  
 Contributor, Maintainer
- 
+
+ <a href="https://github.com/NFT-Guild"><img src="https://avatars.githubusercontent.com/u/104906516?s=200&v=4" align="right" width="70">
+
+ ### [nft guild](https://github.com/NFT-Guild)  
+Maintainer
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stephen-rowan&show_icons=true)
   
