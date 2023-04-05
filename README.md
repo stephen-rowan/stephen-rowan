@@ -15,12 +15,12 @@
 ### [Catalyst-Swarm ](https://github.com/Catalyst-Swarm)
 **"Together we are stronger" - Tevo** -  Maintainer
  
-<a href="https://github.com/C3ETH"><img src="https://avatars.githubusercontent.com/u/88413275?s=400&u=7f5741919702f30b720ac41d66aafc4aac1d3275&v=4" align="right" width="70">
+<a href="https://github.com/treasuryguild"><img src="https://avatars.githubusercontent.com/u/100556245?s=200&v=4" align="right" width="70"> 
  
-### [Treasury Guild](https://github.com/treasuryguild) 
+ ### [Treasury Guild](https://github.com/treasuryguild) 
 Contributor, Maintainer
  
-<a href="https://github.com/treasuryguild"><img src="https://avatars.githubusercontent.com/u/100556245?s=200&v=4" align="right" width="70"> 
+<a href="https://github.com/C3ETH"><img src="https://avatars.githubusercontent.com/u/88413275?s=400&u=7f5741919702f30b720ac41d66aafc4aac1d3275&v=4" align="right" width="70">
  
 ### [Cardano Catalyst Community Eastern Townhall](https://github.com/C3ETH)  
 Contributor, Maintainer 
