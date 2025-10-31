@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Stephen Rowan
+# Stephen Rowan
 
 > Building decentralized communities and open-source quality assurance in the Cardano ecosystem.
 
@@ -15,9 +15,8 @@
 
 I work at the intersection of decentralised governance, open-source development, and community intelligence.
 
-- ✅ Cardano ecosystem contributor  
-- ✅ Quality assurance & decentralised auditing  
-- ✅ DAO builder & Project Catalyst advocate  
+- ✅ SingurityNET ecosystem contributor  
+- ✅ Quality assurance & decentralised auditing   
 - ✅ Passionate about transparent governance & community-first initiatives  
 
 ---
