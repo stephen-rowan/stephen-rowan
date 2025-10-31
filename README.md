@@ -4,8 +4,6 @@
 
 ---
 
-## 🌐 Ecosystem Badges
-
 ![Project Catalyst](https://img.shields.io/badge/Project%20Catalyst-Funded-blue?logo=cardano)
 ![Cardano Ecosystem](https://img.shields.io/badge/Cardano-Community-brightgreen?logo=cardano)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?logo=github)
