@@ -28,7 +28,7 @@ I work at the intersection of decentralised governance, open-source development,
 
 
 <details>
-  <summary>## 📂 View Community Projects</summary>
+  <summary> 📂 View Community Projects</summary>
 
 ### 🎯 [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO) — Funded by Project Catalyst
 **Role:** Creator & Owner  
