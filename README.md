@@ -95,9 +95,7 @@ The Distributed Autonomous Organisation of Quality Assurance
 
 ## 📫 Connect with Me
 
-- GitHub: [@stephen-rowan](https://github.com/stephen-rowan)  
-- Cardano Project Catalyst: [Profile](https://cardano.ideascale.com/a/index)  
-- LinkedIn: *(optional link)*  
+- GitHub: [@stephen-rowan](https://github.com/stephen-rowan)
 
 ---
 
