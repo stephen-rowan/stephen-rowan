@@ -1,3 +1,7 @@
+![Project Catalyst](https://img.shields.io/badge/Project%20Catalyst-Funded-blue?logo=cardano)
+![Cardano Ecosystem](https://img.shields.io/badge/Cardano-Community-brightgreen?logo=cardano)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-orange?logo=github)
+
 ## Current Interests
 
 <a href="https://github.com/Quality-Assurance-DAO"><img src="https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Binary/QA-DAO-LOGO.jpg" align="right" width="70"><a href="https://cardano.org/"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100"><a href="https://cardano.ideascale.com/a/index"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="70">
