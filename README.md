@@ -66,11 +66,8 @@ The Distributed Autonomous Organisation of Quality Assurance
 | Project | Role | Highlights |
 |--------|------|-----------|
 | QA-DAO | Founder | Open-source transparency systems |
-| Catalyst Auditing | Maintainer | Accountability frameworks |
+| SingularityNET Archive | Ambassador | AI Development |
 | Catalyst Swarm | Maintainer | Community coordination tools |
-| Treasury Guild | Contributor | On-chain treasury tooling |
-| Catalyst School | Contributor | Education & community workshops |
-| NFT Guild | Maintainer | NFT & digital asset community building |
 
 ---
 
