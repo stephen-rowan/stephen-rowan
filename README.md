@@ -26,14 +26,9 @@ I work at the intersection of decentralised governance, open-source development,
 
 ## 🌟 Current Interests
 
-<p align="right">
-  <a href="https://github.com/Quality-Assurance-DAO"><img src="https://github.com/Quality-Assurance-DAO/DAO-Open-Source/blob/main/Documents/Binary/QA-DAO-LOGO.jpg" width="70"></a>
-  <a href="https://cardano.org/"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" width="90"></a>
-  <a href="https://cardano.ideascale.com/a/index"><img src="https://github.com/NFT-DAO/Governance-HOLON/blob/main/Business-Plan/14-Our-Appendix/Graphics/ideascale.png" width="60"></a>
-</p>
 
 <details>
-  <summary>📂 View Community Projects</summary>
+  <summary>## 📂 View Community Projects</summary>
 
 ### 🎯 [Quality Assurance DAO](https://github.com/Quality-Assurance-DAO) — Funded by Project Catalyst
 **Role:** Creator & Owner  
