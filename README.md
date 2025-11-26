@@ -1,4 +1,4 @@
-# Stephen Rowan
+# Stephen Whitenstall
 
 > Building decentralized communities and open-source quality assurance in the Cardano ecosystem.
 
